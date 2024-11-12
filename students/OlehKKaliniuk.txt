@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+njrotnboj;wnbo;jbn;ojbnbjnnb;
+=======
 alles leer?
+>>>>>>> c090c884cea863567f37b744ba40a91e917a3664
