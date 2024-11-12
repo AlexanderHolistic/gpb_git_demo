@@ -12,6 +12,6 @@ Scrum Framework
 
 # sprint planning
 # sprint
-# daily sprint
+# daily scrum
 # review
 # retro
