@@ -1,1 +1,17 @@
 Was sind Git und Github? Das heutige Thema ist das Feld Github.
+Scrum Framework
+
+# backlog
+# sprint backlog
+# produkt increment
+
+# scrum team
+# scrum master
+# entwickler 
+# produkt ownen
+
+# sprint planning
+# sprint
+# daily sprint
+# review
+# retro
