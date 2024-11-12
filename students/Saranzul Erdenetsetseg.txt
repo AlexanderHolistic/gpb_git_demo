@@ -15,3 +15,7 @@ Scrum Framework
 # daily scrum
 # review
 # retro
+
+Refinement
+DOR
+DOD
