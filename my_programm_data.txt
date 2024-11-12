@@ -1,1 +1,7 @@
 # this is where we will do something later
+
+##funktion 1## 
+
+hier kommt mein code hinein für die Funktion 1
+
+##end funktion1##
